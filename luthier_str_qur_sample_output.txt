@@ -1,0 +1,36 @@
+All units in Thousands.
+Fixed Assets :500
+Rent :50
+Other expenses such as electricity bills, etc :50
+Enter maintainance cost :50
+No. of luthiers :4
+Enter Salary of each luthier :100
+Enter no. of violin1 :4
+Enter no. of violin2 :4
+Enter no. of viola :4
+Enter no. of cello :4
+Enter material cost of violin1 :5
+Enter material cost of violin2 :5
+Enter material cost of viola :10
+Enter material cost of cello :10
+Enter selling price of violin1 :40
+Enter selling price of violin2 :40
+Enter selling price of viola :40
+Enter selling price of cello :100
+Monthly profit to company : 210
+Profit to company after 0 month : 0
+Profit to company after 1 month : 210
+Profit to company after 2 month : 420
+Profit to company after 3 month : 630
+Profit to company after 4 month : 840
+Profit to company after 5 month : 1050
+Profit to company after 6 month : 1260
+Profit to company after 7 month : 1470
+Profit to company after 8 month : 1680
+Profit to company after 9 month : 1890
+Profit to company after 10 month : 2100
+Profit to company after 11 month : 2310
+Yearly profit to company : 2520
+Monthly rent, bills, salary, maintainance : 550
+Running cost with buffer for 3 months : 1650
+
