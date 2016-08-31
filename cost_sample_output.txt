@@ -4,27 +4,26 @@ Rent :20
 Other expenses such as electricity bills, etc :20
 Enter maintainance cost :10
 No. of employee :4
-Enter Salary of employee :50
-Enter no. of guitars :10
+Enter Salary of employee :40
+Enter no. of guitars :8
 Enter no. of ukulele :4
 Enter material cost of guitar :8
 Material cost of Ukulele :2
 Enter selling price of ukulele :10
 Enter selling price of guitar :50
-Monthly profit to company : 202
+Monthly profit to company : 158
 Profit to company after 0 month : 0
-Profit to company after 1 month : 202
-Profit to company after 2 month : 404
-Profit to company after 3 month : 606
-Profit to company after 4 month : 808
-Profit to company after 5 month : 1010
-Profit to company after 6 month : 1212
-Profit to company after 7 month : 1414
-Profit to company after 8 month : 1616
-Profit to company after 9 month : 1818
-Profit to company after 10 month : 2020
-Profit to company after 11 month : 2222
-Yearly profit to company : 2424
-Monthly rent, bills, salary, maintainance : 250
-Running cost with buffer for 3 months : 750
-
+Profit to company after 1 month : 158
+Profit to company after 2 month : 316
+Profit to company after 3 month : 474
+Profit to company after 4 month : 632
+Profit to company after 5 month : 790
+Profit to company after 6 month : 948
+Profit to company after 7 month : 1106
+Profit to company after 8 month : 1264
+Profit to company after 9 month : 1422
+Profit to company after 10 month : 1580
+Profit to company after 11 month : 1738
+Yearly profit to company : 1896
+Monthly rent, bills, salary, maintainance : 210
+Running cost with buffer for 3 months : 630
