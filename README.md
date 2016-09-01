@@ -1,17 +1,13 @@
 # luthier
 
-build handmade guitars, ukulele, violin, viola, cello, and other instuments. 
-	operation costs
-	yearly profit 
+for building your luthier shop
+There are files to calculate monthly costs, profit.
 
-equipments 
-	recorder
-	design required
-	
-quality_control
-	make_a_software_hardware
-	mark_and_record
-	store
-	establish_relationship
+required equipments, recorder, design recording chamber
+
+
+
+quality_control : make a software that records sounds from marked locations on soundboard, store, and estalish relationship. 
+
 
 improve 
